@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ff0f465_002D72f4_002D4674_002D8048_002D267d4ba0bf31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="home_controller_get_should_return_string_content" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::012BD860-FB49-486F-BFB4-2FF0FFB68260::.NETCoreApp,Version=v5.0::Actio.Api.Tests.Unit.Controllers.HomeControllerTests.home_controller_get_should_return_string_content&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::012BD860-FB49-486F-BFB4-2FF0FFB68260::.NETCoreApp,Version=v5.0::Actio.Api.Tests.Unit.Controllers.ActivitiesControllerTests.activities_controller_post_should_return_accepted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2A01F4E8-1800-4929-9B12-B4DDC329547D::.NETCoreApp,Version=v5.0::Actio.Services.Activities.Tests.Unit.Services.ActivityServiceTests.activity_service_add_async_should_succeed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2A01F4E8-1800-4929-9B12-B4DDC329547D::.NETCoreApp,Version=v5.0::Actio.Services.Activities.Tests.Integration.Controllers.HomeControllerTests.home_controller_get_should_return_string_content&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8B1D6F30-B135-4525-B1D1-FE7632D59997::.NETCoreApp,Version=v5.0::Actio.Services.Identity.Tests.Unit.Services.UserServiceTests.user_service_login_should_return_jwt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
